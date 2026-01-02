@@ -1,0 +1,3 @@
+document.getElementById("actionBtn").onclick = () => {
+  alert("🚀 Codex is ready!\nStart learning and practicing coding.");
+};

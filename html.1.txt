@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Codex | Smart Coding</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+  <aside class="sidebar">
+    <h2>CODEX</h2>
+    <a href="#">Dashboard</a>
+    <a href="#">Learn</a>
+    <a href="#">Practice</a>
+    <a href="#">Community</a>
+  </aside>
+
+  <main class="content">
+    <h1>Welcome to Codex</h1>
+    <p>Build logic. Write code. Think smart.</p>
+
+    <div class="cards">
+      <div class="card">AI Help</div>
+      <div class="card">Code Arena</div>
+      <div class="card">Learning Paths</div>
+    </div>
+
+    <button id="actionBtn">Start Now</button>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
